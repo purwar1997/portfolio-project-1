@@ -70,7 +70,12 @@
   border: 3px solid #1b1b1b;
   border-radius: 12px;
   background-color: #ffffff;
+  transition: background-color 200ms ease;
+}
+
+.nav-button:hover {
   cursor: pointer;
+  background-color: #f0f0f0;
 }
 
 section[aria-label="banner"] {
