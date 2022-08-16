@@ -6,20 +6,22 @@
   color: #1b1b1b;
 }
 
-.section[aria-label="navbar"] {
-  height: 20vh;
+section[aria-label="navbar"] {
+  height: 15vh;
 }
 
 .navbar-container {
-  margin-top: 35px;
+  padding-top: 25px;
 }
 
 .navbar-container div {
   display: inline-block;
 }
 
-.navbar-container img {
+img[alt="brand-logo"] {
   margin-left: 60px;
+  position: relative;
+  top: 10px;
   cursor: pointer;
 }
 
@@ -79,7 +81,7 @@
 }
 
 section[aria-label="banner"] {
-  height: 80vh;
+  height: 85vh;
   position: relative;
 }
 
@@ -92,8 +94,8 @@ img[alt="person-hero-image"] {
 
 img[alt="square-pattern"] {
   position: absolute;
-  bottom: 10px;
   left: 12vw;
+  bottom: 30px;
   height: 40vh;
   z-index: -1;
 }
@@ -107,7 +109,7 @@ img[alt="start-pattern-1"] {
 
 img[alt="start-pattern-2"] {
   position: absolute;
-  bottom: 50px;
+  bottom: 70px;
   left: 40vw;
   height: 35px;
 }
