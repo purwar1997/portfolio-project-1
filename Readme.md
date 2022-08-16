@@ -16,11 +16,11 @@ A simple street style landing page created using
 
 **Time took to complete this project :** 4 hours
 
-## What I learnt by doing this project :-
+## What I learnt by creating this project :-
 
 - How to create a navigation bar
 - How to position HTML elements in a web page
 - How to position images in a web page
 - How to create `buttons`
 
-[**Live link**](https://portfolio-project-1-five.vercel.app/) of the project.
+### [**Live link**](https://portfolio-project-1-five.vercel.app/) of the project.
