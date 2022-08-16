@@ -21,6 +21,6 @@ A simple street style landing page created using
 - How to create a navigation bar
 - How to position HTML elements in a web page
 - How to position images in a web page
-- How to create buttons
+- How to create `buttons`
 
 To view this project, [**click here**](https://portfolio-project-1-five.vercel.app/).
