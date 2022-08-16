@@ -23,4 +23,4 @@ A simple street style landing page created using
 - How to position images in a web page
 - How to create `buttons`
 
-### [**Live link**](https://portfolio-project-1-five.vercel.app/) of the project.
+### [**Live link**](https://portfolio-project-1-five.vercel.app/) of the project
