@@ -2,25 +2,27 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-red)
 ![CSS](https://img.shields.io/badge/-CSS-brightgreen)
-![CSS Positions](https://img.shields.io/badge/-CSS%20Positions-blue)
-![Buttons](https://img.shields.io/badge/-Buttons-orange)
-![Netlify](https://img.shields.io/badge/-Netlify-green)
-![Vercel](https://img.shields.io/badge/-Vercel-blueviolet)
+![CSS Position](https://img.shields.io/badge/-CSS%20Position-blue)
+![CSS Animation](https://img.shields.io/badge/-CSS%20Animation-blueviolet)
 
 ## Description
 
-A simple street style landing page created using
-`HTML` and `CSS`. This project is hosted on both `Netlify` and `Vercel`.
+This project is a simple street style landing page created using `HTML` and `CSS`.
 
 **Created By :** Shubham Purwar
 
-**Time took to complete this project :** 4 hours
+**Time took to complete the project :** 4 hours
 
 ## What I learnt by creating this project :-
 
 - How to create a navigation bar
-- How to position HTML elements in a web page
-- How to position images in a web page
-- How to create `buttons`
+- How to position elements in a web page
+- How to use CSS `animation` property
+- How to create `buttons` and add animations to them
+- How to use CSS `z-index` property
 
-### [**Live link**](https://portfolio-project-1-five.vercel.app/) of the project
+### Preview of the project :-
+
+![preview](./preview.png)
+
+### [Live link](https://portfolio-project-1-five.vercel.app/) of the project.
