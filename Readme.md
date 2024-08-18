@@ -7,7 +7,7 @@
 
 This project is a simple street style landing page created using `HTML` and `CSS`.
 
-## What I learnt by creating this project :-
+### Learnings from this project :-
 
 - How to create a navigation bar
 - How to position elements in a web page
